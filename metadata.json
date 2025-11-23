@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Colony Overseer",
+  "description": "An autonomous, pixel-art colony simulator. Watch your quirky NPCs build, gather, and survive in a procedurally generated world.",
+  "requestFramePermissions": []
+}
